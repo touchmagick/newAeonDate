@@ -4,13 +4,16 @@
 
 This repository aims to provide dates in New Aeon format for a variety of programming languages.
 
+As of Aug 2013, it's just getting underway and is very unstable.
+
 ## Build Status
 
 [![Build Status](https://travis-ci.org/touchmagick/newAeonDate.png?branch=master,dev)](https://travis-ci.org/touchmagick/newAeonDate)
 
 ## References:
-* http://oto-usa.org/thelema/calendar/
-* "The Thelemic Calendar" by Joseph Thiebes, Agape vol.X no.1 (http://lib.oto-usa.org/agape/agape.10.1.pdf)
+* O.T.O. U.S.G.L. webpage about the Thelemic Calendar <http://oto-usa.org/thelema/calendar/>
+* O.T.O. U.S.G.L. Style Guide <http://admin.oto-usa.org/style-guide>
+* "The Thelemic Calendar" by Joseph Thiebes, Agape vol.X no.1 <http://lib.oto-usa.org/agape/agape.10.1.pdf>
 
 ## Alternatives
 * Clay Fouts' Era Legis jQuery library
