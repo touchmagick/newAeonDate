@@ -1,0 +1,36 @@
+{
+  "name": "newAeonDate",
+  "version": "0.0.3",
+  "description": "New Aeon Date Toolkit",
+  "keywords": [
+    "library"
+  ],
+  "homepage": "https://github.com/touchmagick/newAeonDate",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:touchmagick/newAeonDate.git"
+  },
+  "bugs": "https://github.com/touchmagick/newAeonDate/issues",
+  "licenses": [
+    {
+      "type": "UNLICENSE",
+      "url": "http://unlicense.org/"
+    }
+  ],
+  "author": {
+    "name": "Jonathan Webb",
+    "web": "https://github.com/webbj74"
+  },
+  "main": "./lib/javascript/js/newAeonDate.js",
+  "scripts": {
+    "test": "grunt lib/javascript/test && node lib/javascript/test/node-index.js"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "qunit": "~0.5.15",
+    "grunt": "~0.4.1",
+    "grunt-contrib-jshint": "~0.4.3",
+    "grunt-contrib-qunit": "~0.2.1",
+    "qunitjs": "~1.11.0"
+  }
+}

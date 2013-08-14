@@ -4,6 +4,10 @@
 
 This repository aims to provide dates in New Aeon format for a variety of programming languages.
 
+## Build Status
+
+[![Build Status](https://travis-ci.org/[YOUR_GITHUB_USERNAME]/[YOUR_PROJECT_NAME].png?branch=master,dev)](https://travis-ci.org/[YOUR_GITHUB_USERNAME]/[YOUR_PROJECT_NAME])
+
 ## References:
 * http://oto-usa.org/thelema/calendar/
 * "The Thelemic Calendar" by Joseph Thiebes, Agape vol.X no.1 (http://lib.oto-usa.org/agape/agape.10.1.pdf)
