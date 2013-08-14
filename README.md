@@ -6,7 +6,7 @@ This repository aims to provide dates in New Aeon format for a variety of progra
 
 ## Build Status
 
-[![Build Status](https://travis-ci.org/touchmagick-ci/newAeonDate.png?branch=master,dev)](https://travis-ci.org/touchmagick-ci/newAeonDate)
+[![Build Status](https://travis-ci.org/touchmagick/newAeonDate.png?branch=master,dev)](https://travis-ci.org/touchmagick/newAeonDate)
 
 ## References:
 * http://oto-usa.org/thelema/calendar/
