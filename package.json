@@ -23,7 +23,7 @@
   },
   "main": "./lib/javascript/js/newAeonDate.js",
   "scripts": {
-    "test": "grunt lib/javascript/test && node lib/javascript/test/node-index.js"
+    "test": "grunt test && node lib/javascript/test/node-index.js"
   },
   "dependencies": {},
   "devDependencies": {
